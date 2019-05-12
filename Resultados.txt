@@ -1,0 +1,27 @@
+Resultados antes das modificações no sistema
+Top 10 similar movies for Star Wars (1977)
+
+Empire Strikes Back, The (1980)                          score: 0.98                strength: 345
+Return of the Jedi (1983)                                score: 0.98                strength: 480
+Raiders of the Lost Ark (1981)                           score: 0.98                strength: 380
+20,000 Leagues Under the Sea (1954)                      score: 0.97                strength: 68
+12 Angry Men (1957)                                      score: 0.97                strength: 109
+Close Shave, A (1995)                                    score: 0.97                strength: 92
+African Queen, The (1951)                                score: 0.97                strength: 138
+Sting, The (1973)                                        score: 0.97                strength: 204
+Wrong Trousers, The (1993)                               score: 0.97                strength: 103
+Wallace & Gromit: The Best of Aardman Animation (1996)   score: 0.97                strength: 58
+
+Resultados após as modificações:
+Top 10 similar movies for Star Wars (1977)
+
+Return of the Jedi (1983)                                genre_similarity: 1.153   score: 0.986        
+Empire Strikes Back, The (1980)                          genre_similarity: 1.1     score: 0.99            
+Starship Troopers (1997)                                 genre_similarity: 1.1     score: 0.93              
+Star Trek: The Wrath of Khan (1982)                      genre_similarity: 1.047   score: 0.969           
+Star Trek: First Contact (1996)                          genre_similarity: 1.047   score: 0.967             
+Star Trek: Generations (1994)                            genre_similarity: 1.047   score: 0.96               
+Jurassic Park (1993)                                     genre_similarity: 1.047   score: 0.959            
+Star Trek III: The Search for Spock (1984)               genre_similarity: 1.047   score: 0.953            
+Star Trek IV: The Voyage Home (1986)                     genre_similarity: 1.047   score: 0.951              
+Independence Day (ID4) (1996)                            genre_similarity: 1.047   score: 0.948               
