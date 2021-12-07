@@ -7,3 +7,5 @@ A tarefa era melhorar um sistema de recomendação de filmes que o professor fez
 O sistema foi implementado em AWS
 http://ilovemovies2.ezp2nffwbs.sa-east-1.elasticbeanstalk.com/
 
+![](https://github.com/rodfloripa/Projeto12/edit/master/movies.png)
+
