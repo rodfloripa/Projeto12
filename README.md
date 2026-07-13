@@ -6,7 +6,7 @@ Esta é uma tarefa do curso Taming Big Data with Python and Spark-Udemy.A tarefa
 </p>
 
 O sistema foi implementado em AWS
-http://ilovemovies2.ezp2nffwbs.sa-east-1.elasticbeanstalk.com/
+
 
 ![](https://github.com/rodfloripa/Projeto12/blob/master/movies.png)
 
